@@ -3,3 +3,7 @@
 *.pyd
 __py
 **/__pycache__/
+
+**/weights/
+weights
+MobileSAMv2/weights
